@@ -1,3 +1,3 @@
 # wiz
 this is note
-this is diffent note
+#are you new
